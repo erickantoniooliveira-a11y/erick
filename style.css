@@ -15,7 +15,7 @@ body {
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #000000; /* Cor azul moderna */
+    background-color: #ff0000; /* Cor azul moderna */
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -49,8 +49,8 @@ header h1 {
 
 /* Estilo do Botão Interativo */
 button {
-    background-color: #5d8f71; /* Cor verde */
-    color: white;
+    background-color: #ff0000; /* Cor verde */
+    color: rgb(0, 0, 0);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
